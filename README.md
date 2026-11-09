@@ -64,6 +64,6 @@ Conclusion
 
 This project gave me an opportunity to work with retail sales data and apply my Power BI skills to a practical analytics task. It helped me understand the overall process of converting raw data into meaningful visual reports.
 
-Created by: Sujay B Revankar
+Created by: Sujay
 
 Domain: Data Analytics | Business Intelligence
