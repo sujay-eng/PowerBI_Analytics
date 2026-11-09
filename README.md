@@ -38,12 +38,14 @@ While working on this project, I gained practical experience in data cleaning, d
 I also learned how to use Power BI visualizations to present sales information in a more understandable way.
 
 Project Files
-File	Description
-PowerBi Project.pbix	Interactive Power BI dashboard
-PowerBI project.pdf	PDF version of the dashboard
-Online Retail.xlsx	Dataset used for the analysis
-Folder Structure
-text
+File Name	Description
+PowerBi Project.pbix	Power BI dashboard with interactive visualizations.
+PowerBI project.pdf	PDF version of the dashboard.
+Online Retail.xlsx	Dataset used for the analysis and dashboard creation.
+
+## Folder Structure
+
+```text
 Sales_analytics/
 │
 ├── Dataset/
@@ -56,6 +58,7 @@ Sales_analytics/
 │   └── PowerBI project.pdf
 │
 └── README.md
+```
 
 Conclusion
 
